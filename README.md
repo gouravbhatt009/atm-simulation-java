@@ -1,2 +1,2 @@
 # atm-simulation-java
-This is a CLI of ATM -Simulation
+"This is one of my first Java projects. I built this to understand how Scanner, switch-case and loops work in real scenarios."
